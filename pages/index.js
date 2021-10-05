@@ -26,6 +26,7 @@ export default function Blah() {
 
 	return (
 		<div>
+			<h1>ChatAPP ver0.0.0</h1>
 			<form onSubmit={submit}>
 				<input
 					value={message}
